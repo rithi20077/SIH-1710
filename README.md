@@ -1,13 +1,10 @@
 # Smart India Hackathon Workshop
 
-# Date:
-19-09-2026
+# Date: 19-09-2026
 
-## Register Number:
-212224220081
+## Register Number: 212224220081
 
-## Name:
-JAYANI K
+## Name: RITHIKA M
 
 ## Problem Title
 
